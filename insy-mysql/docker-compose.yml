@@ -9,5 +9,5 @@ services:
         environment:
             MYSQL_ROOT_PASSWORD: insy-mysql
         volumes:
-          - './mysql:/var/lib/mysql'
+          - './var/lib/mysql:/var/lib/mysql'
         container_name: insy-mysql
