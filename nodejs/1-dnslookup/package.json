@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Schreibe ein Programm, das zu Domains mittels eines DNS lookups die ip-Adresse(n) ermitteln und ausgeben kann. Die Domains (beliebig viele) sollen dabei als Kommandozeilenargument angegeben werden können. (Hint: Den Inhalt von process.argv anschauen).",
   "main": "dnslookup.js",
-  "dependencies": {
-    "mongodb": "^2.2.14"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

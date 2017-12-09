@@ -4,9 +4,6 @@
 # Node
 **/node_modules
 
-# Configuration
-**/var
-
 # Sublime Text
 .sublime-project
 .sublime-workspace
