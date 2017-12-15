@@ -8,4 +8,4 @@ services:
           - '5432:5432'
         volumes:
             - "./var/lib/postgresql:/var/lib/postgresql"
-        container_name: insy-mysql
+        container_name: insy-postgres
