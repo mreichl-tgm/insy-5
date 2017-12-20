@@ -1,0 +1,9 @@
+[submodule "insy-5-sql"]
+	path = insy-5-sql
+	url = git@github.com:mreichl-tgm/insy-5-sql.git
+[submodule "insy-5-wordpress"]
+	path = insy-5-wordpress
+	url = git@github.com:mreichl-tgm/insy-5-wordpress.git
+[submodule "insy-5-js"]
+	path = insy-5-js
+	url = git@github.com:mreichl-tgm/insy-5-js.git
